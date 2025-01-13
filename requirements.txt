@@ -1,0 +1,5 @@
+google-auth-oauthlib
+google-auth
+requests
+ultralytics
+opencv-python
