@@ -2,7 +2,6 @@
 
 This project demonstrates how to capture frames from a Nest camera via RTSP and use a Vision-Language Model (VLM) to detect if a person is present in the scene and track how long they remain (dwell time). If a person’s dwell time exceeds a specified threshold, we save the frame locally.  
 
-![Illustration of the person detection concept](snapshots/vlm_person_detection.png)
 
 ## How It Works
 
@@ -83,5 +82,3 @@ This project demonstrates how to capture frames from a Nest camera via RTSP and 
 - [OpenCV Documentation](https://docs.opencv.org/)
 - [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/index)
 
----
-© 2023 NestCamVLMProject. 
